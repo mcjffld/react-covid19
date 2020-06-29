@@ -29,6 +29,8 @@
     "webpack-dev-server": "^3.1.8"
   },
   "dependencies": {
+    "current-week-number": "^1.0.7",
+    "lodash": "^4.17.15",
     "victory": "~0.26.0"
   }
 }
